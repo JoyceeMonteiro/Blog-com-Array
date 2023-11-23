@@ -1,2 +1,3 @@
 # Blog-com-Array
-Blog feito na aula do curos de FrontEnd
+Blog realizado na aula do curso de FrontEnd.
+
