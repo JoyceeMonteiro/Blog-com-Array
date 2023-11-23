@@ -1,0 +1,120 @@
+body {
+    font-family:sans-serif;
+    line-height: 1.6;
+    background-color:cornflowerblue;
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 500px;
+    margin-top: 20px;
+    padding: 50px;
+    border: 1px solid;
+    background-color:darkcyan;
+    
+}
+h1{
+    
+    text-align: center;
+}
+h2{
+    
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background: #35424a;
+    color: cornflowerblue;
+    padding: 1px 0;
+}
+
+/* Estilo para a barra de navegação */
+nav ul {
+ 
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    border-style: solid;
+}
+
+nav a {
+    color: black;
+    
+}
+
+/* Estilo para o corpo do blog */
+main {
+    width: 80%;
+    margin: auto;
+    background-color: darkcyan;
+    padding: 20px ;
+}
+
+/* Estilo para as seções */
+section {
+    padding: 20px 0;
+}
+
+/* Estilo para os artigos */
+article {
+    padding: 20px 0;
+}
+
+/* Estilo para os links */
+a {
+    color: blue;
+    text-align: center;
+    
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: cornflowerblue;
+    color: #35424a;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+section > article > head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+
+}
+/* body > article > header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    padding: 10px;
+    background-color: aqua;
+} */
+#cabecalho{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5em;
+}
+.card-post{
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+.contato{
+    background-color:darkcyan;
+    color: black;
+    text-align: center;
+}
+#dados{
+    text-align: center;
+}
+.post {
+    width: 80%;
+    margin: auto;
+    background-color: darkcyan;
+    padding: 20px ;
+}

@@ -1,0 +1,1 @@
+Adaptação do blog feito nas aulas do curso de FrontEnd, onde os dados serão recebidos de um array.
